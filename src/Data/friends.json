@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://i.pinimg.com/564x/eb/c6/f0/ebc6f0e6041f011d3a7afdf014663c20.jpg",
+    "name": "Alex",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/fa/2e/37/fa2e37a71d692c6003d25f3b4748fb7e.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/ef/e3/42/efe34203e3ab434d6e9d327c66c6aad5.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/55/f3/1a/55f31a17a15ed2803f1ef474d10c62e5.jpg",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/28/e0/20/28e020bc4c640d6b1997df0dfd7d2938.jpg",
+    "name": "Tri",
+    "isOnline": false,
+    "id": 1284
+  }
+]
