@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { getRandomHexColor } from './getRandomHexColor';
+import { getRandomHexColor } from '../helpers/getRandomHexColor';
 
 export const StatisticsWrap = styled.section`
   display: flex;
